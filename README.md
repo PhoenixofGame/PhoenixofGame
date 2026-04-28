@@ -11,7 +11,7 @@ looking for ways to make software feel more intentional and easy to use.
 ## 🚀 Projects
 
 ### 🔥 FireClient / SAC (Private Build Only)
-A custom Sea of Thieves client built with a focus on performance and a clean user
+A custom Sea of Thieves LAUNCH client (its not a Cheat) built with a focus on performance and a clean user
 experience. FireClient is an easy-to-use QoL launcher where you can automate many
 things — from switching accounts to changing your screen resolution with just the
 press of a button.
