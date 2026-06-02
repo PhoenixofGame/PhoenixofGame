@@ -3,7 +3,7 @@
 I'm a smol developer who loves building things that are actually useful — whether
 that's tools for games, custom UIs, or just fun projects that scratch a personal itch.
 
-I work mostly with **Python**, but I'm also currently learning **C++**. I'm always
+I work mostly with **Python**, but I'm also currently learning **C#** and **C++**. I'm always
 looking for ways to make software feel more intentional and easy to use.
 
 ---
