@@ -36,4 +36,5 @@ That's the best way to reach me.
 
 ---
 
-*Thanks for stopping by. ~ powered by [RAU] and Coffee*
+*Thanks for stopping by. 
+~ powered by [RAU] and Coffee*
