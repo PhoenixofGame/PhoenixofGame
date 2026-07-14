@@ -10,12 +10,6 @@ looking for ways to make software feel more intentional and easy to use.
 
 ## 🚀 Projects
 
-### 🔥 FireClient / SAC (Private Build Only)
-A custom Sea of Thieves LAUNCH client (its not a Cheat) built with a focus on performance and a clean user
-experience. FireClient is an easy-to-use QoL launcher where you can automate many
-things — from switching accounts to changing your screen resolution with just the
-press of a button.
-
 ### 🎮 MyHud
 A fully customizable HUD that puts the player in control of their screen layout.
 It adds things you didn't know you needed, or simply creates a clean, customizable
